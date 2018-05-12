@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40056#Yule-Logs--Longmans-Christmas-Annual-for-1898
 gutenberg_issued: '2012-06-22'
 gutenberg_type: Text
 identifiers:
