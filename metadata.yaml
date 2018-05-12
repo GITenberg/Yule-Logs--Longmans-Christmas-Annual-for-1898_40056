@@ -1,0 +1,40 @@
+_repo: Yule-Logs--Longmans-Christmas-Annual-for-1898_40056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2012-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+tableOfContents: A fighting mermaid / by Kirk Munroe -- The venture of the "Bertha"
+  whaler / by Henry Frith -- A Frenchman's gratitude / by Percy Groves -- The badge
+  of the fourth foot / by Robert Leighton -- A dangerous game / by G. Manville Fenn
+  -- By default of the engineer / by Franklin Fox -- The King of Spain's will / by
+  John Bloundelle-Burton -- A New England raid / by E.F. Pollard -- Sir Richard's
+  squires / by Charles W. Whistler -- The slaver's revenge / by Harry Collingwood
+  -- On a Mexican ranche / by G.A. Henty.
+title: 'Yule Logs: Longmans'' Christmas Annual for 1898'
+url: http://www.gutenberg.org/ebooks/40056
